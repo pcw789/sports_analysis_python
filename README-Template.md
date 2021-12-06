@@ -1,14 +1,13 @@
-# Project Title
+# 스포츠 데이터 분석
 
-Simple overview of use/purpose.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+스포츠 경기(MLB, EPL)에서 발생한 데이터를 활용해 팀의 승률 예측, 선수 가치 평가 등의 분석을 수행하였다.
 
-## Getting Started
+## 프로젝트 1
 
-### Dependencies
+### 득점 및 실점과 팀의 승률과의 관계성(피타고리안 승률)
 
 * Describe any prerequisites, libraries, OS version, etc., needed before installing program.
 * ex. Windows 10
