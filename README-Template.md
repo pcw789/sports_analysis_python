@@ -25,6 +25,25 @@
 code blocks for commands
 ```
 
+## 프로젝트 2
+
+### 선수(타자) 가치 평가
+
+* 선수가 팀의 득점에 얼마나 기여했는가를 측정.
+* ex. Windows 10
+
+### Installing
+
+* How/where to download your program
+* Any modifications needed to be made to files/folders
+
+### Executing program
+
+* How to run the program
+* Step-by-step bullets
+```
+code blocks for commands
+```
 ## Help
 
 Any advise for common problems or issues.
