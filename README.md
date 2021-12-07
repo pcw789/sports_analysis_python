@@ -9,10 +9,7 @@
 
 ### 득점 및 실점과 팀의 승률과의 관계성(피타고리안 승률)
 
-* 
-$$
-x^2
-$$.
+* \frac{{\mathrm{score}}^{2}}{2}.
 * ex. Windows 10
 
 ### Installing
