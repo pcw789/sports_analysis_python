@@ -14,37 +14,38 @@
 
 ### EPL과 MLB 경기 기록 데이터에서 확인
 
-* [EPL](https://github.com/pcw789/sports_analysis_python/blob/main/EPL_Pythagorean_Predictor.ipynb)
-* [MLB](https://github.com/pcw789/sports_analysis_python/blob/main/MLB_Pythagorean_predict.ipynb)
+* [EPL 17-18](https://github.com/pcw789/sports_analysis_python/blob/main/EPL_Pythagorean_Predictor.ipynb)
+* [MLB 16](https://github.com/pcw789/sports_analysis_python/blob/main/MLB_Pythagorean_predict.ipynb)
 
 ### 분석
 
 * 각 팀별 득점과 실점 기록으로 피타고리안 값을 계산
 * 피타고리안 값과 팀의 승률을 Scatter Plot으로 표현
 * Linear Regression으로 피타고리안 값이 승률에 미치는 영향 분석
-```
-code blocks for commands
-```
+
+### 결과
+
+* EPL
+* 
+
 
 ## 프로젝트 2
 
 ### 선수(타자) 가치 평가
 
-* 선수가 팀의 득점에 얼마나 기여했는가를 측정.
-* ex. Windows 10
+* 선수가 팀의 득점에 얼마나 기여했는가를 측정(Run Value).
 
-### Installing
+### MLB 경기 기록 데이터에서 확인
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* [MLB 17](https://github.com/pcw789/sports_analysis_python/blob/main/MLB_Run_Expectancy.ipynb)
 
-### Executing program
+### 분석
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+* 야구에 존재하는 모든 타석 상황에 대한 기대 득점을 계산한다.
+* 각 타자들이 들어선 타석 상황(기대 득점)에서 얼마나 활약했는지 측정한다.
+   * ex) 
+
+
 ## Help
 
 Any advise for common problems or issues.
