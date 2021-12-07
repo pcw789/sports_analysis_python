@@ -9,18 +9,19 @@
 
 ### 득점 및 실점과 팀의 승률과의 관계성(피타고리안 승률)
 
-* ( (득점)^2 + (실점)^2 ) / (실점)^2 의 수식값이 승률과 비례한다는 이론.
+* (득점)^2  / [ (득점)^2 + (실점)^2 ] 의 수식값이 승률과 비례한다는 이론.
 * 어떤 스포츠에도 성립
 
-### 
+### EPL과 MLB 경기 기록 데이터에서 확인
 
 * [EPL](https://github.com/pcw789/sports_analysis_python/blob/main/EPL_Pythagorean_Predictor.ipynb)
-* Any modifications needed to be made to files/folders
+* [MLB](https://github.com/pcw789/sports_analysis_python/blob/main/MLB_Pythagorean_predict.ipynb)
 
-### Executing program
+### 분석
 
-* How to run the program
-* Step-by-step bullets
+* 각 팀별 득점과 실점 기록으로 피타고리안 값을 계산
+* 피타고리안 값과 팀의 승률을 Scatter Plot으로 표현
+* Linear Regression으로 피타고리안 값이 승률에 미치는 영향 분석
 ```
 code blocks for commands
 ```
