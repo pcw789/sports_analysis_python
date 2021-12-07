@@ -9,12 +9,12 @@
 
 ### 득점 및 실점과 팀의 승률과의 관계성(피타고리안 승률)
 
-* \frac{{\mathrm{score}}^{2}}{2}.
-* ex. Windows 10
+* ( (득점)^2 + (실점)^2 ) / (실점)^2 의 수식값이 승률과 비례한다는 이론.
+* 어떤 스포츠에도 성립
 
-### Installing
+### 
 
-* How/where to download your program
+* [EPL](https://github.com/pcw789/sports_analysis_python/blob/main/EPL_Pythagorean_Predictor.ipynb)
 * Any modifications needed to be made to files/folders
 
 ### Executing program
