@@ -90,5 +90,41 @@
 * 아웃 종류(삼진, 땅볼, 플라이)별 구종 비교 분석.
 
 
+<br/>
+
+## BABIP 데이터 분석
+
+### Description
+
+* Batting Average on Balls in Play (BABIP) 분석
+
+### 리그 전체 타자들의 BABIP 연도별 변화 분석
+
+* [BABIP](https://github.com/pcw789/sports_analysis_python/blob/main/MLB_BABIP_batter.ipynb)
+
+### 분석
+
+* 홈런이 아닌 타구가 얼마나 in play 되는가를 나타내는 비율.
+* BABIP 수치에는 '운'도 따르기 때문에 많은 Sample size가 필요.
+* 연도별 리그 전체 BABIP이 어떻게 변화했는지 시각화.
+* BABIP수치는 평균적으로 0.3에 근사.
+
+<br/>
+
+## MONEY BALL 분석
+
+### Description
+
+* 장타율 VS 출루율 분석
+
+### 장타율과 출루율 중 어느 지표가 더 승률에 영향을 미치는지 분석
+
+* [Moneyball](https://github.com/pcw789/sports_analysis_python/blob/main/MLB_moneyball_practice.ipynb)
+
+### 분석
+
+* 99시즌~02시즌 각 팀의 승률, 장타율, 출루율 계산
+* 승률(독립변수), 장타율과 출루율(종속변수)로 선형 회귀 분석 수행
+* 장타율과 승률과의 관계, 출루율과 승률과의 관계 분석
 
 
