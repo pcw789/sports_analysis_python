@@ -54,21 +54,24 @@
 <br/>
 <br/>
 
-## FF(포심패스트볼) 분석
+## Blake Snell 분석
 
 ### Description
 
-* 21년 메이저리그 포심패스트볼 데이터 분석
+* 샌디에이고 투수 Blake Snell 투수 분석.
 
-### 포심패스트볼의 구속, 회전수, 피안타율, 타구 속도 관계 분석
+### Blake Snell 분석
 
-* [FF_data](https://github.com/pcw789/sports_analysis_python/blob/main/FF_data.ipynb)
+* [Blake Snell] (https://github.com/pcw789/sports_analysis_python/blob/main/Blake_Snell.ipynb)
 
 ### 분석
 
-* 공의 회전수와 구속의 관계 분석
-* 공의 회전수와 피안타율의 관계 분석
-* 공의 구속과 타구 속도와의 관계 분석
+* 7월까지 Snell은 부진한 모습을 보였지만, 8월 이후 반등하였다.
+* 7월까지 실점도 많았지만, K/BB 또한 낮은 모습을 보여주었다.
+* 8월 이후, Snell은 구종 비중의 변화를 주었고, 반등에 성공하였다.
+* 8월 이후 포심패스트볼과 슬라이더의 비중을 높이는 반면 커브볼의 비중을 낮췄고, 체인지업은 거의 던지지 않았다.
+* 7월까지 던졌던 체인지업을 분석해보니 체인지업 볼의 비중과 안타의 비중이 높았다.
+
 
 <br/>
 <br/>
@@ -92,23 +95,21 @@
 <br/>
 <br/>
 
-## Blake Snell 분석
+## FF(포심패스트볼) 분석
 
 ### Description
 
-* 샌디에이고 투수 Blake Snell 투수 분석.
+* 21년 메이저리그 포심패스트볼 데이터 분석
 
-### Blake Snell 분석
+### 포심패스트볼의 구속, 회전수, 피안타율, 타구 속도 관계 분석
 
-* [Blake Snell] https://github.com/pcw789/sports_analysis_python/blob/main/Blake_Snell.ipynb
+* [FF_data](https://github.com/pcw789/sports_analysis_python/blob/main/FF_data.ipynb)
 
 ### 분석
 
-* 7월까지 Snell은 부진한 모습을 보였지만, 8월 이후 반등하였다.
-* 7월까지 실점도 많았지만, K/BB 또한 낮은 모습을 보여주었다.
-* 8월 이후, Snell은 구종 비중의 변화를 주었고, 반등에 성공하였다.
-* 8월 이후 포심패스트볼과 슬라이더의 비중을 높이는 반면 커브볼의 비중을 낮췄고, 체인지업은 거의 던지지 않았다.
-* 7월까지 던졌던 체인지업을 분석해보니 체인지업 볼의 비중과 안타의 비중이 높았다.
+* 공의 회전수와 구속의 관계 분석
+* 공의 회전수와 피안타율의 관계 분석
+* 공의 구속과 타구 속도와의 관계 분석
 
 
 <br/>
