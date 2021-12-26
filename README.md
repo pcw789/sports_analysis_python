@@ -17,7 +17,7 @@
 
 ### 고회전 vs 저회전 패스트볼 분석
 
-* [HighSpin VS LowSpin](https://github.com/pcw789/sports_analysis_python/blob/main/HighSpin%20VS%20LowSpin.ipynb)
+* [HighSpin VS LowSpin](https://github.com/pcw789/sports_analysis_python/blob/main/HighSpiLowSpin.ipynb)
 
 ### 분석
 
