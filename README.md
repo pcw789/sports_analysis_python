@@ -8,6 +8,27 @@
 <br/>
 <br/>
 
+## MLB Substance 단속
+
+### Description
+
+* 21년 6월 3일 mlb에서 sticky substance 단속을 하였다.
+* 단속 이후 어떠한 변화가 생겼는지 분석하였다.
+
+### 고회전 vs 저회전 패스트볼 분석
+
+* [MLB_Crackdown](https://github.com/pcw789/sports_analysis_python/blob/main/MLB_sticky_crackdown.ipynb)
+
+### 분석
+
+* 단속 이후 투수들의 포심패스트볼 회전수에 변화가 있는지 분석
+* 회전수의 변화로 인해 타자들의 Swing & Miss 비율 변화가 있는지 분석
+* 단속 이후 포심의 회전수가 낮아진 투수들의 데이터 분석
+* 회전수의 변화로 인해 포심의 무브먼트에 변화가 있는지 분석
+
+<br/>
+<br/>
+
 ## 패스트볼 회전수 분석
 
 ### Description
