@@ -15,7 +15,7 @@
 * 21년 6월 3일 mlb에서 sticky substance 단속을 하였다.
 * 단속 이후 어떠한 변화가 생겼는지 분석하였다.
 
-### 고회전 vs 저회전 패스트볼 분석
+### MLB Sticky Substance 단속
 
 * [MLB_Crackdown](https://github.com/pcw789/sports_analysis_python/blob/main/MLB_sticky_crackdown.ipynb)
 
