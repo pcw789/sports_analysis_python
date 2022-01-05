@@ -12,7 +12,7 @@
 
 ### Description
 
-* 21년 6월 3일 mlb에서 투수들에 손에 사용하는 sticky substance 단속을 시작하였다.
+* 21년 6월 3일 mlb에서 투수들이 손에 사용하는 sticky substance 단속을 시작하였다.
 * 단속 이후 투수들 기록에 어떠한 변화가 생겼는지 분석하였다.
 
 ### MLB Sticky Substance 단속
